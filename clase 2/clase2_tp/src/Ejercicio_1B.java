@@ -21,5 +21,6 @@ public class Ejercicio_1B {
         for (int num : numeros){
             System.out.println(num + " ");
         }
+
     }
 }
